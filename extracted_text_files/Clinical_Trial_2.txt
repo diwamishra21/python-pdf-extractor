@@ -1,0 +1,48 @@
+"wa 7 At the end of phase III
+Phases of Clinical Trials 7 yyvciion cited
+for FDA approval
+FDA approved to test the drug(s) PDA approved drug(s)
+
+in humandrugs
+
+Preclinical Trial Phase I Phase IT Phase III Phase IV
+
+(Usually done on animals to (Determine Pharmacological (Evaluate Safety and Efficacy) (Evaluate (Monitor long term effects
+determine the drug is safe actions and Tolerability”) Effectiveness** and risk- and effectiveness)
+
+enough for human testing) benefit ratio)
+
+Duration 3-6 years since the drug Months Months- Years Years Ongoing following FDA
+discovery approval
+size
+
+Population | In vitro and In vivo Healthy population / may be | Population with target disease Diverse population with Diverse population with
+animals with targeted disease e.g. target disease target disease & new age
+cancer, T.B. etc. groups, gender
+
+Types of Not specific Unblinded & Uncontrolled May be Placebo (inactive Randomized & controlled | Expended safety
+Saree substance) & Active, Controlled comparison
+
+Factors to Mechanism of action, Pharmacodynamics (side Drug-Drug & Drug-Disease Dosage intervals, Risk- Epidemiological data,
+
+be Efficacy (ability of drug to | effect / desire effect, interaction, Efficacy at various benefit information, Efficacy and safety within
+
+eye act against mechanism of action of drug) | doses, Patient safety Efficacy and safety for large diverse populations,
+
+identified pathogen/disease), Safety Pharmacokinetics subgroups Pharmacoeconomics
+
+(concerns the medical risk | (absorption, distribution, (comparison of value of one
+
+to the patient) metabolism & elimination of pharmaceutical drug or drug
+drug), Tolerated dose therapy to another)
+
+*Tolerability: Represents the degree to which overt adverse effects can be tolerated by the patient.
+
+**E ffectiveness: The extent to which a drug achieves its intended effects.
+
+ 
+
+References:
+1. http://www.nim.nih.gov/services/ctphases.html
+2. http://www.fda.gov/drugs/resourcesforyou/consumers/ucm143534.htm
+3. http://www.innovation.org/drug discovery/objects/pdf/RD Brochure.pdf
